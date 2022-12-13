@@ -16,6 +16,6 @@ Repository containing portfolio of select data science projects completed for <a
 <p>This project is representative of my leadership and communication skills. I was primarily responsible for creating the five member team (spread across the United States), leading weekly Zoom meetings with my teammates, managing our agile workflow (using Jira), designing the poster, and writing the report.</p>
 <a href="https://collegeseeker.net" target="_blank">CollegeSeeker.net</a>
 <br>
-<a href="https://drive.google.com/file/d/1Mph1EdMSWuE4Q94eF9R4NvPSXE7Gp3CN/view?usp=share_link" target="_blank">Poster</a>
+<a href="https://drive.google.com/file/d/1Mph1EdMSWuE4Q94eF9R4NvPSXE7Gp3CN/view?usp=share_link" target="_blank">Poster PDF</a>
 <br>
-<a href="https://drive.google.com/file/d/1gpd-7HQDyabVS8SUoGZ_ZtsuM_zQAT9G/view?usp=share_link" target="_blank">Full Report</a>
+<a href="https://drive.google.com/file/d/1gpd-7HQDyabVS8SUoGZ_ZtsuM_zQAT9G/view?usp=share_link" target="_blank">Full Report PDF</a>
