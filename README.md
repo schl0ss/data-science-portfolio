@@ -12,7 +12,7 @@ Repository containing portfolio of select data science projects completed for <a
 <br><br>
 
 <h2>College Seeker: Explore the University Universe (group project)</h2>
-<p>Created in Spring 2021 while enrolled in Georgia Tech's Data and Visual Analytics (CSE 6242).</p>
+<p>Created in Spring 2021 while enrolled in Georgia Tech's Data and Visual Analytics course (CSE 6242).</p>
 <p>This project is representative of my leadership and communication skills. I was primarily responsible for creating the five member team (spread across the United States), choosing the idea, leading weekly Zoom meetings with my teammates, managing our agile workflow (using Jira), designing the poster, and writing the report.</p>
 <a href="https://collegeseeker.net" target="_blank">CollegeSeeker.net</a>
 <br>
