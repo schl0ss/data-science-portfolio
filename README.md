@@ -6,6 +6,8 @@ Repository containing portfolio of select data science projects completed for <a
 <p>Created in Fall 2022 while enrolled in Georgia Tech's Data Mining and Statistical Learning course (ISYE 7406).</p>
 <p>This project is representive of my data engineering and machine learning skills written in an R language environment.</p>
 <p>My goal is to submit it for publication in a data science journal.</p>
+<a href="https://github.com/schl0ss/data-science-portfolio/blob/b3be8f9dd08fcff9d713d5a46378f0122d5507cc/moneyball.r">moneyball.r</a>
+<br>
 <a href="https://drive.google.com/file/d/1UDpnMBsEjJUNADsGKXk7pUEwyUegQUGX/view?usp=share_link" target="_blank">Full Report PDF</a>
 <br>
 <a href="https://drive.google.com/file/d/1iUzgHEkkYVbu3iYMrmXyxT5WgbGIhkfn/view?usp=share_link" target="_blank">Presentation PDF</a>
