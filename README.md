@@ -2,6 +2,13 @@
 Repository containing portfolio of select data science projects completed for <a href="https://pe.gatech.edu/degrees/analytics" target="_blank">Georgia Tech's Masters in Analytics program</a> (planned graduation in May 2023).
 <br><br>
 
+<h2>Using Natural Language Processing Techniques to Classify Instances of Bullying in Kids' Text Conversations</h2>
+<p>Created in Spring 2023 while working for Pinwheel.</p>
+<p>This project is representive of my natural language processing skills written in Python and using Hugging Face models.</p>
+<a href="https://drive.google.com/file/d/1_U6eHDzB4FMVnJPEG_GWk19pIkc634Ne/view?usp=share_link" target="_blank">Full Report PDF</a>
+<br>
+<br><br>
+
 <h2>NBA Moneyball: Predicting Player Salary (solo project)</h2>
 <p>Created in Fall 2022 while enrolled in Georgia Tech's Data Mining and Statistical Learning course (ISYE 7406).</p>
 <p>This project is representive of my data engineering and machine learning skills written in an R language environment.</p>
